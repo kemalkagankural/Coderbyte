@@ -24,5 +24,5 @@ RegExp, metinde desen eşleştirme "arama ve değiştirme" işlevleri yapmak iç
   1)a...b desene aramak için RegExp kullanın
   2)Eğer bulursa true
   3)Bulamazsa yanlış döndür
-
+  
 */
